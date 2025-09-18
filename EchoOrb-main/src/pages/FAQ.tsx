@@ -40,9 +40,9 @@ const FAQ = () => {
       color: "primary-bright",
       questions: [
         {
-          id: "what-is-mindful-mentor",
-          question: "What is The Mindful Mentor?",
-          answer: "The Mindful Mentor is an AI-powered mental health companion designed specifically for students. It provides private journaling, mood analysis, study tools, and micro-exercises to support your mental wellness journey through academic life."
+          id: "what-is-echorb",
+          question: "What is EchoOrb?",
+          answer: "EchoOrb is an AI-powered mental health companion designed specifically for students. It provides private journaling, mood analysis, study tools, and micro-exercises to support your mental wellness journey through academic life."
         },
         {
           id: "how-to-start",

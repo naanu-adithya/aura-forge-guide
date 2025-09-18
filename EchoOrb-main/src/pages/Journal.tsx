@@ -29,7 +29,7 @@ const Journal = () => {
     // Auto-save functionality
     const timer = setTimeout(() => {
       if (journalEntry.trim()) {
-        localStorage.setItem('mindful-mentor-journal', JSON.stringify({
+        localStorage.setItem('echorb-journal', JSON.stringify({
           content: journalEntry,
           timestamp: new Date().toISOString(),
           encrypted: isPrivacyLocked
@@ -43,7 +43,7 @@ const Journal = () => {
 
   useEffect(() => {
     // Load saved journal entry
-    const saved = localStorage.getItem('mindful-mentor-journal');
+    const saved = localStorage.getItem('echorb-journal');
     if (saved) {
       try {
         const parsed = JSON.parse(saved);

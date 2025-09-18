@@ -41,7 +41,7 @@ const Navigation = () => {
                 <Brain className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold gradient-text">The Mindful Mentor</h1>
+                <h1 className="text-xl font-bold gradient-text">EchoOrb</h1>
                 <p className="text-xs text-foreground-muted">Your Safe Space</p>
               </div>
             </Link>
@@ -97,7 +97,7 @@ const Navigation = () => {
               <div className="w-8 h-8 rounded-full bg-gradient-primary flex items-center justify-center">
                 <Brain className="w-5 h-5 text-white" />
               </div>
-              <span className="font-bold text-lg gradient-text">Mindful Mentor</span>
+              <span className="font-bold text-lg gradient-text">EchoOrb</span>
             </Link>
 
             {/* Mobile Menu Button */}
