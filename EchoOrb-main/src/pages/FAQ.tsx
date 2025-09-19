@@ -402,9 +402,9 @@ const FAQ = () => {
                   <div>
                     <h4 className="font-medium text-foreground mb-2">National Crisis Lines</h4>
                     <ul className="space-y-1 text-foreground-muted">
-                      <li>• Suicide Prevention Lifeline: <strong className="text-destructive">988</strong></li>
+                      <li>• Suicide Prevention Lifeline: <strong className="text-destructive">1800-233-3330</strong></li>
                       <li>• Crisis Text Line: Text <strong className="text-destructive">HOME</strong> to <strong className="text-destructive">741741</strong></li>
-                      <li>• Emergency Services: <strong className="text-destructive">911</strong></li>
+                      <li>• Emergency Services: <strong className="text-destructive">112</strong></li>
                     </ul>
                   </div>
                   <div>
